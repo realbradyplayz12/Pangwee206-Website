@@ -1,2 +1,2 @@
-# Link-Website
-HTML code for Pangwee206 Link Website.
+# Pangwee206 Website
+HTML code for Pangwee206 Website.
