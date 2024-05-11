@@ -1,21 +1,19 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Syne"/>
-    <title>Pangwee206 Links</title>
-    <link rel="icon" type="image/x-icon" href="https://yt3.googleusercontent.com/RzUKUI3_3_ktiG6cjAPv2PfX2cAdZhIQcBIu0BymehbH82FZdEKk7IjuhtaCKgoEZfCnfT18lA=s176-c-k-c0x00ffffff-no-rj">
-    <
+    <title>Links - Pangwee206</title>
+    <link rel="icon" type="image/x-icon" href="https://imagedatabase.w3spaces.com/pfp/pangwee206.jpg">
     <style>
       body {
-        background-image: url(https://i.imgflip.com/1elaif.jpg?a476474); /* The image used for background*/
+        background-image: url(https://imagedatabase.w3spaces.com/images/penguinflexing.png); /* The image used for background*/
         background-repeat: no-repeat; /* Do not repeat the image */
         background-position: center; /* Center the image */
         background-size: cover; /* Resize the background image to cover the entire container */
-        font-family: "Syne", sans-serif;
-      }
+        font-family: "Syne", Comic_Sans_MS;
 
       .container {
         width: 100%;
@@ -82,7 +80,7 @@
       <!-- Image and name container. Change to your picture here. -->
       <div class="image-container">
         <img
-          src="https://yt3.googleusercontent.com/RzUKUI3_3_ktiG6cjAPv2PfX2cAdZhIQcBIu0BymehbH82FZdEKk7IjuhtaCKgoEZfCnfT18lA=s176-c-k-c0x00ffffff-no-rj"
+          src="https://imagedatabase.w3spaces.com/pfp/pangwee206.jpg"
           class="w3-margin"
           alt="Person"
           max-width="100%"
@@ -98,31 +96,29 @@
         <!-- Links section 1. Replace the # inside of the "" with your links. -->
         <div class="links-container">
           <a href="https://www.youtube.com/@pangwee206" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link" target="_blank">YouTube Channel</a>
-          <a href="#" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link" target="_blank">Blog</a>
-          <a href="#" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link" target="_blank">Blog</a>
-          <a href="#" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link" target="_blank">Blog</a>
+          <a href="https://open.spotify.com/artist/6nixyALIsWdlqVaVUAyy2L" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link" target="_blank">Spotify Artist Profile</a>
+          <a href="/home.html" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link">Website</a>
+          <a href="https://www.youtube.com/@milothegolden21" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link" target="_blank">Milo (my dog)'s YouTube Channel</a>
+          <a href="https://twitter.com/bradyplayz12" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link" target="_blank">X (formally known as Twitter)</a>
         </div>
       </div>
     </div>
 
     <!-- Blog entry. Change the text and link to your most recent post. -->
     <div class="w3-content w3-padding-32 w3-center" style="padding-right: 10px; padding-left: 10px; max-width: 600px">
-      <p class="w3-text-white"><strong>Most recent blog post:</strong></p>
-      <h3 class="w3-text-white">Title heading</h3>
-      <h5 class="w3-text-white">Article description, 01.01.2022</h5>
+      <p class="w3-text-white"><strong>Most recent update:</strong></p>
+      <h3 class="w3-text-white">YouTube Channel</h3>
+      <h5 class="w3-text-white">Switching my Focus, 05/10/2024</h5>
       <p class="w3-text-white">
-        Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed
-        mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac
-        accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam
-        corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo
-        condimentum, porta lectus vitae, ultricies congue gravida diam non
-        fringilla.
+       As you may know by now, I have made a YouTube channel for my dog, Milo.
+      As his YouTube channel is growing, I will be shifting my focus from my main YouTube
+      channel "Pangwee206" to my dog's channel. Hopefully you can still follow me on all my channels.
+      Thanks for your understanding!
       </p>
       <div class="w3-row">
         <div class="w3-col m8 s12">
           <p>
-            <button class="w3-button w3-yellow w3-padding-large w3-round-xlarge">
-              <b>READ MORE »</b>
+              <a href="https://www.youtube.com/post/UgkxBe3EPnLxEbskPbSHGvX808-MtxHsVWD-" class="w3-button w3-hover-blue w3-large w3-round-xlarge w3-yellow link"> GO TO COMMUNITY POST >> </a>
             </button>
           </p>
         </div>
@@ -131,7 +127,7 @@
             <span class="w3-padding-large w3-right w3-text-white">
               <b>Comments</b>
               <span class="w3-badge w3-yellow">
-                3
+                0
               </span>
             </span>
           </p>
